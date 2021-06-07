@@ -1,0 +1,1 @@
+some_column VARCHAR (50);

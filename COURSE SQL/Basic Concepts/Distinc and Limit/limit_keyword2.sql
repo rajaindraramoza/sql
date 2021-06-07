@@ -1,0 +1,1 @@
+SELECT id, NAME FROM customers LIMIT 4, 12;

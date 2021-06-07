@@ -1,0 +1,1 @@
+SELECT name FROM students WHERE age BETWEEN 18 AND 22;

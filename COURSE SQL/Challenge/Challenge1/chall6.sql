@@ -1,0 +1,1 @@
+SELECT CONCAT (name, 'is from', city FROM customers);

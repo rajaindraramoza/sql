@@ -1,0 +1,1 @@
+SELECT customers.name, cities.name FROM customers RIGHT OUTER JOIN cities ON cities.id=customers.city_id;

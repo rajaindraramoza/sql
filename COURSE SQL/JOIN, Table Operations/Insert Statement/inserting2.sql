@@ -1,0 +1,1 @@
+INSERT INTO students (name, university) VALUES('Peter Parker', 'Stanford');

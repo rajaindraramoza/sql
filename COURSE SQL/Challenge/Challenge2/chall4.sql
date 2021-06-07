@@ -1,0 +1,1 @@
+UPDATE zoo SET food_balance=23 WHERE age> (SELECT AVG (age) FROM zoo);

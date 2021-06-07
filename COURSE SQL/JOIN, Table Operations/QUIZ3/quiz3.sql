@@ -1,0 +1,1 @@
+UPDATE PEOPLE SET name='Jordan' WHERE id=147;

@@ -1,0 +1,1 @@
+INSERT INTO people VALUES ('John Smith', '1', 22);

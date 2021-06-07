@@ -1,0 +1,1 @@
+SELECT name, university FROM students WHERE university IN ('Stanford', 'MIT') ORDER BY university;

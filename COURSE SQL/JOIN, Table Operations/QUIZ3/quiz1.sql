@@ -1,0 +1,1 @@
+SELECT students.names, universities.names FROM students LEFT OUTER JOIN universities ON students.university_id=universities.id;

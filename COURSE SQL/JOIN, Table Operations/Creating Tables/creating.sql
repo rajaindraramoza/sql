@@ -1,0 +1,1 @@
+CREATE TABLE test(id int, username VARCHAR (30), password VARCHAR (20), PRIMARY KEY(id));

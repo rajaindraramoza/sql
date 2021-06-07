@@ -1,0 +1,1 @@
+UPDATE students SET university='MIT' WHERE id =682;

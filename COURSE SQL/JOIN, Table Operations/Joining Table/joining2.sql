@@ -1,0 +1,1 @@
+SELECT customers.name, items.names FROM customers, item WHERE items.seller_id = customers.id;
